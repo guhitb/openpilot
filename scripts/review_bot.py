@@ -62,3 +62,4 @@ if __name__ == "__main__":
         print("PR does not match any known templates")
         sys.exit(1) # Fail
 
+#test
